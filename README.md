@@ -1,10 +1,10 @@
-LGMVIP-TASK-2
+LGMVIP Task-1
 
-WEB DEVELPMENT VIRTUAL INTERNSHIP PROGRAM BY LETS GROW MORE
+WEB DEVELPMENT VIRTUAL INTERNSHIP PROGRAM BY LETSGROWMORE
 
-Task 2 -Web application using Create-react-app
+Task 2 - Web application using Create-react-app
 
-To Run the App steps:
+To Run 
 
 Clone the Repository
 
